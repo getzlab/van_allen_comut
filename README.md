@@ -1,3 +1,20 @@
+# Notes for Getz Lab
+
+This is a fork of the original CoMut package from the Van Allen Lab to update source code.
+To use, git clone this repository:
+
+`git clone git@github.com:getzlab/van_allen_comut.git`
+
+Enter the cloned repository via
+
+`cd comut`
+
+and install with
+
+`pip install -e .`
+
+preferably within a conda environment.
+
 # CoMut
 CoMut is a Python library for creating comutation plots to visualize genomic and phenotypic information.
 
