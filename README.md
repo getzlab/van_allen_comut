@@ -7,7 +7,7 @@ To use, git clone this repository:
 
 Enter the cloned repository via
 
-`cd comut`
+`cd van_allen_comut`
 
 and install with
 
